@@ -16,12 +16,11 @@ To learn how to merge and analyze data stored in related tables using different 
 ##  Prerequisite
 Before running this script, ensure that:
 - You have a working SQL environment (MySQL or SQLite).
-- You understand basic table creation and foreign key relationships.
 
 
 ## What is Covered
 
-1. **Tables**
+1. **Tables Creation**
    - **Customers** — stores customer details (`customer_id`, `name`, `city`).  
    - **Orders** — stores order details (`order_id`, `customer_id`, `product`, `amount`).
 
