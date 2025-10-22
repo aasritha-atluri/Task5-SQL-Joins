@@ -3,25 +3,21 @@
 This repository contains the SQL script for **Task 5** of the SQL Developer Internship.  
 It demonstrates how to combine data from multiple tables using various types of **SQL Joins**.
 
----
 
 ## Objective
 To learn how to merge and analyze data stored in related tables using different join operations.
 
----
 
 ## Tools
 - **MySQL Workbench**  
 - **DB Browser for SQLite**
 
----
 
 ##  Prerequisite
 Before running this script, ensure that:
 - You have a working SQL environment (MySQL or SQLite).
 - You understand basic table creation and foreign key relationships.
 
----
 
 ## 🧱What is Covered
 
@@ -38,7 +34,6 @@ Before running this script, ensure that:
    - **RIGHT JOIN** → Returns all orders, even if the customer is missing.  
    - **FULL JOIN** → Combines all rows from both tables (simulated with `UNION` in MySQL).
 
----
 
 ## 📄 Files
 - **joins_task.sql** → Contains: 
@@ -46,7 +41,6 @@ Before running this script, ensure that:
   - Data insertion  
   - All four join queries
 
----
 
 ## ▶️ How to Run
 
