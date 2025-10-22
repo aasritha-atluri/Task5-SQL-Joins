@@ -19,7 +19,7 @@ Before running this script, ensure that:
 - You understand basic table creation and foreign key relationships.
 
 
-## 🧱What is Covered
+## What is Covered
 
 1. **Tables**
    - **Customers** — stores customer details (`customer_id`, `name`, `city`).  
