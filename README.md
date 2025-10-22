@@ -35,14 +35,14 @@ Before running this script, ensure that:
    - **FULL JOIN** → Combines all rows from both tables (simulated with `UNION` in MySQL).
 
 
-## 📄 Files
+## Files
 - **joins_task.sql** → Contains: 
   - Table creation  
   - Data insertion  
   - All four join queries
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Open your SQL tool** (MySQL Workbench or DB Browser for SQLite).  
 2. **Run the script** `joins_task.sql`.  
