@@ -3,6 +3,10 @@
 This repository contains the SQL script for **Task 5** of the SQL Developer Internship.  
 It demonstrates how to combine data from multiple tables using various types of **SQL Joins**.
 
+## Prerequisite
+Before running this script, please make sure you have already created the tables from **Task 1**.  
+You can find it here: [Library-Management-Schema](https://github.com/aasritha-atluri/Library-Management-Schema) and also insert data from **SQL-Task 2**.
+
 
 ## Objective
 To learn how to merge and analyze data stored in related tables using different join operations.
